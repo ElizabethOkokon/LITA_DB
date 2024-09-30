@@ -40,3 +40,5 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE 1
 WHERE LITA_DB = TRUE
 ```
+### Data vislization
+!https://github.com/ElizabethOkokon/LITA_DB/blob/main/LITA%20logo%20M011.png 
