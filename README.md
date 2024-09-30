@@ -1,8 +1,10 @@
 # LITA_DB
 ### Project Title:- My first project learning Data Analysis with Ladies in Tech(Incubator Hub) 2024.
-
+---
 ### Project Overview
 i has being knowlegdable
+
+
 
 ### Data Sources
 The primary source of Data sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
@@ -28,4 +30,13 @@ The primary source of Data sale.csv and this is an open source data that can be 
 ### Exploratory Data Analysis
 EDA invoved the exploring of the Data to answer some questions about the Data such as:
 - What is the overall sales trend
-- 
+- which product are top sellers
+- What are the products on peak sales?
+
+### Data Analysis
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+
+```SQL
+SELECT * FROM TABLE 1
+WHERE LITA_DB = TRUE
+```
