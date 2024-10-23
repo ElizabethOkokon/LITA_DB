@@ -21,7 +21,7 @@
 
 - Sales Performance Analysis for a Retail Store: In this project, you analyzed sales data to uncover key insights such as top-selling products, regional sales performance, and monthly trends. You also built an interactive Power BI dashboard that visualized these metrics.
 
-- Subscription Service Data Analysis: Focused on customer segmentation, tracking subscription types, and analyzing trends in cancellations and renewals. Which led to the creation of a dashboard that provided key insights into customer behavior and subscription lifecycles.
+- Subscription Service Data Analysis: Focused on customer segmentation, tracking subscription types, and analyzing trends in cancellations and renewals. This led to the creation of a dashboard that provided key insights into customer behavior and subscription lifecycles.
 
 ### Data Sources
 The primary dataset used for this project is sales.csv, which is an open-source dataset. This data is freely available and can be downloaded from various online repositories such as Kaggle, FRED, or other open data platforms. These sources provide a wide range of datasets for analysis and are accessible to the public for educational and research purposes.
@@ -44,11 +44,11 @@ I’ve written complex queries to analyze sales performance, and identify trends
 
 - Power BI 
 I’ve developed interactive dashboards using Power BI to visualize insights from SQL queries and Excel analyses. Which has made my dashboards highlight important business metrics, making data-driven decision-making easier.
--- Data Visualization: Skilled in using visualizations to communicate data insights effectively, including bar charts, line graphs, and slicers to filter data.
+- Data Visualization: Skilled in using visualizations to communicate data insights effectively, including bar charts, line graphs, and slicers to filter data.
      
 - GITHUB
 For Portfolio Building
-Which will explain who I am, what I do, and what I have passionate about.
+Which will explain who I am, what I do, and what I am passionate about.
 
  ### Data Cleaning and Preparations
  In the initial phase of the Date cleaning and preparations, we perfrom the following action;
@@ -57,7 +57,7 @@ Which will explain who I am, what I do, and what I have passionate about.
  3. Data cleaning and
 
 ### Exploratory Data Analysis
-EDA invoved the exploring nd analyzing the dataset to uncover patterns, trends, and insights that help answer key business questions. The primary objectives during this phase include:
+EDA involves exploring and analyzing the dataset to uncover patterns, trends, and insights that help answer key business questions. The primary objectives during this phase include:
 
 - What is the overall sales trend?
 By examining sales data over time, we can identify trends such as growth or decline in sales. This analysis helps in understanding seasonality, the impact of promotions, or other external factors affecting sales performance.
