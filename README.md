@@ -1,4 +1,6 @@
-# LITA_DB
+
+![LITA logo M011](https://github.com/user-attachments/assets/a85af7d1-fd38-40b0-a61d-6421dfd60a64)
+
 ### Project Title:- My first project learning Data Analysis with Ladies in Tech(Incubator Hub) 2024.
 ---
 ### Project Overview
