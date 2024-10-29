@@ -93,7 +93,9 @@ Total Sales = SUM(Sales[Amount])
 ![SQL](https://github.com/user-attachments/assets/5b4c4921-9503-465e-b9f7-16c436bf9d1e)
 
 #### Example PowerBI:
-![PowerBI](https://github.com/user-attachments/assets/bb62e66a-f874-436c-8cc6-71d920fc840f)
+![PowerBI Class](https://github.com/user-attachments/assets/222e376a-484f-4d7e-961c-cdb1ca6251ca)
+![PowerBI Class 1](https://github.com/user-attachments/assets/36a685a3-624d-48f4-9ad9-cce6c3cddfda)
+
 
 ### Future goals
 
@@ -116,6 +118,49 @@ Total Sales = SUM(Sales[Amount])
 ![Text Cleaning 2](https://github.com/user-attachments/assets/c5076978-f772-4aec-89ac-2d4a76a83327)
 ![Text Cleaning 3](https://github.com/user-attachments/assets/6a67e590-2313-4138-b16e-769900d19fae)
 ![Text Cleaning 4](https://github.com/user-attachments/assets/72532359-e353-46c8-adcd-6d786b0f31ad)
+
+
+## First Project on Salesdata
+### Key Tasks:
+- Top-selling Products 
+- ⁠Regional Performance 
+- ⁠Monthly Sales trends
+  
+### Excel
+![Excel First Project](https://github.com/user-attachments/assets/444e447a-a5b8-486e-82b1-b7623231051d)
+![PivotTable 1](https://github.com/user-attachments/assets/cb25449e-f20a-456b-891c-a16a003129b3)
+![PivotTable 2](https://github.com/user-attachments/assets/573befd5-aa7b-42bc-9d84-5d3206576feb)
+![PivotTable 3](https://github.com/user-attachments/assets/c67a8829-6585-4685-a973-f5fddfcd4667)
+
+### SQL
+![SQL First Project 1](https://github.com/user-attachments/assets/5d8b7214-3a9f-4200-878a-3d8716290fc3)
+![SQL First Project 2](https://github.com/user-attachments/assets/57a90769-3bdf-44ce-a0eb-b1ed6bd8e81d)
+![SQL First Project 3](https://github.com/user-attachments/assets/35369b75-61e6-475a-888a-f8504e5d6cea)
+![SQL First Project 4](https://github.com/user-attachments/assets/34ba6e2a-58a2-4187-bcaa-828e4c195326)
+![SQL First Project 5](https://github.com/user-attachments/assets/c05b61e5-acfb-4f46-a38f-06492fc4becb)
+
+### PowerBI
+![Updated project 1](https://github.com/user-attachments/assets/40129e40-67f2-44d7-8b3f-123ba7089942)
+
+
+## Second Project on CustomerData
+### Key Tasks:
+- understand customer behavior,
+- track subscription types,
+- identify key trends in cancellations and renewals
+  
+### Excel 
+![Second Project](https://github.com/user-attachments/assets/35fdf9e0-164c-4af1-acb4-149d766f7da4)
+
+### SQL
+![SQL Second Project 1](https://github.com/user-attachments/assets/25f874c7-2755-4fcd-8d06-486e2829e4df)
+![SQL Second Project 2](https://github.com/user-attachments/assets/27bbe088-226f-4063-bcbd-113068097c1c)
+![SQL Second Project 3](https://github.com/user-attachments/assets/3ff586dd-067e-4fb9-896a-5c0fbd47c9f3)
+![SQL Second Project 4](https://github.com/user-attachments/assets/be893588-4edd-4fd3-beb3-01188f60b334)
+![SQL Second Project 5](https://github.com/user-attachments/assets/ceb2cde2-8bab-40a5-8d53-b5d5b33f2b2c)
+![SQL Second Project 6](https://github.com/user-attachments/assets/29a90955-7f1d-4cf9-aae3-c38f4e6a4a1d)
+
+### PowerBI
 
 
   ## Lecturers 
