@@ -27,8 +27,7 @@
 The primary dataset used for this project is sales.csv, which is an open-source dataset. This data is freely available and can be downloaded from various online repositories such as Kaggle, FRED, or other open data platforms. These sources provide a wide range of datasets for analysis and are accessible to the public for educational and research purposes.
 
 ### Tools Used
-- Microsoft Excel [Download Here](https://wwww.Microsoft.com)
-
+- Microsoft Excel 
 Extensive experience using Excel for
 1. data cleaning,
 2. analysis,
@@ -44,7 +43,8 @@ I’ve written complex queries to analyze sales performance, and identify trends
 
 - Power BI 
 I’ve developed interactive dashboards using Power BI to visualize insights from SQL queries and Excel analyses. Which has made my dashboards highlight important business metrics, making data-driven decision-making easier.
-- Data Visualization: Skilled in using visualizations to communicate data insights effectively, including bar charts, line graphs, and slicers to filter data.
+
+  Data Visualization: Skilled in using visualizations to communicate data insights effectively, including bar charts, line graphs, and slicers to filter data.
      
 - GITHUB
 For Portfolio Building
@@ -127,12 +127,30 @@ Total Sales = SUM(Sales[Amount])
 - ⁠Monthly Sales trends
   
 ### Excel
+Average sales
+```Excel
+=AVERAGEIF(C2:C7501, "Gloves", H2:H7501)
+```
+Total Revenue
+```Excel
+=SUMIF(D1:D50000,"South",H1:H50000)
+```
 ![Excel First Project](https://github.com/user-attachments/assets/444e447a-a5b8-486e-82b1-b7623231051d)
 ![PivotTable 1](https://github.com/user-attachments/assets/cb25449e-f20a-456b-891c-a16a003129b3)
 ![PivotTable 2](https://github.com/user-attachments/assets/573befd5-aa7b-42bc-9d84-5d3206576feb)
 ![PivotTable 3](https://github.com/user-attachments/assets/c67a8829-6585-4685-a973-f5fddfcd4667)
 
 ### SQL
+```SQL
+SELECT (*) FROM [dbo][SALESDATA]
+```
+```SQL
+SELECT Product, SUM(Quantity *UnitPrice) As [TOTAL SALES]
+From where I saved it
+Group by Product 
+Order by [TOTAL SALES] DESC;
+```
+
 ![SQL First Project 1](https://github.com/user-attachments/assets/5d8b7214-3a9f-4200-878a-3d8716290fc3)
 ![SQL First Project 2](https://github.com/user-attachments/assets/57a90769-3bdf-44ce-a0eb-b1ed6bd8e81d)
 ![SQL First Project 3](https://github.com/user-attachments/assets/35369b75-61e6-475a-888a-f8504e5d6cea)
@@ -141,6 +159,46 @@ Total Sales = SUM(Sales[Amount])
 
 ### PowerBI
 ![Updated project 1](https://github.com/user-attachments/assets/40129e40-67f2-44d7-8b3f-123ba7089942)
+
+## Summarize Key Metrics
+- Total Sales: Reflects the overall revenue or total sales by calculating Quantity * UnitPrice.
+- Top-Selling Products: Highlights the products with the highest sales or revenue, with standout items including Gloves, Hat, Jacket, Shirt, Shoes, and Socks.
+- Top Regions: Identifies the regions with the highest sales, providing insights into geographic performance across South, East, North, and West.
+- Customer Segments: Insights into customers unique identifier such as their ID's numbers(Cus1141, Cus1234, Cus1288, Cus1417).
+- Order ID: It is used any time they purchase an item(1006, 1012, 1018, 1006).
+- Order Date:- Show when they purchased an item(6/30/2023, 6/30/2024)
+
+![image](https://github.com/user-attachments/assets/964d0257-9f7d-45ad-8395-6fcd56e61adb)
+
+							
+## Identify Trends
+### Monthly Sales Trends: Seasonal patterns reveal notable sales fluctuations over the year.
+
+- Upward Trend: Sales show a positive trend, with a significant increase reaching 2.75M in the first quarter, suggesting a strong start to the year. 📈 :up
+- Decline Periods: Sales experience noticeable declines in March, April, September, and December, which could be attributed to factors like marketing strategy, store location, or limited understanding of evolving market trends, customer preferences, and e-commerce opportunities. :📉 🔻
+
+### Product Best Sold: Shoes is the best sold products in South or Sock is the less popular products over time.
+
+![image](https://github.com/user-attachments/assets/3b644c32-faf2-4e72-9b0b-d2a735c54ceb)
+
+![image](https://github.com/user-attachments/assets/995c7e7f-e115-4c91-b7da-57fe930ac297)
+
+
+
+
+
+## My Analysis 
+### Based on Research: "What Month Has the Highest Sales?"
+Traditionally, the peak months for retail sales are November and December, driven by the holiday season. The period from Thanksgiving through New Year’s Day sees a surge in consumer spending, as people shop for gifts, decorations, and holiday essentials.
+
+To capitalize on these peak sales months, retailers should consider implementing targeted strategies, such as 
+- Seasonal promotions, 
+- Special holiday campaigns,
+- Enhanced inventory management,
+- Personalized marketing, such Giveaways, Rebranding on the best selling product 
+
+   Leveraging these tactics can help maximize revenue during high-demand periods.
+
 
 
 ## Second Project on CustomerData
@@ -161,6 +219,21 @@ Total Sales = SUM(Sales[Amount])
 ![SQL Second Project 6](https://github.com/user-attachments/assets/29a90955-7f1d-4cf9-aae3-c38f4e6a4a1d)
 
 ### PowerBI
+
+
+## Summarize Key Metrics
+- CustomerID	201, 202, 215,216
+- CustomerName		John	, Jane, Paul, Grace
+- Region	North, South, East, West
+- SubscriptionType	Basic, Premium, Standard
+- SubscriptionStart	1/31/2022, 2/28/2022, 3/31/2023, 4/30/2023
+- SubscriptionEnd	1/31/2023, 2/28/2023, 3/31/2024, 4/30/2024
+- Canceled	FALSE, TRUE
+- Revenue	
+- duration 365, 366
+					
+![image](https://github.com/user-attachments/assets/baf44594-058f-4322-a555-ced00e4c0cb7)
+
 
 
   ## Lecturers 
